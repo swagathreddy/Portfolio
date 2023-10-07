@@ -1,0 +1,14 @@
+body{
+    align-items: center;
+    justify-content: center;
+}
+*{
+    margin:0;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 90px;
+}
